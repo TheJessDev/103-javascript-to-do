@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/styletodo.css">
+    
+   
+
+    <title>To Do List</title>
+</head>
+
+
+
+<body>
+   
+    <h1> My To-Do's</h1>
+    <input id="newTask" type ="text" name="task" required placeholder="Enter Task"></input>
+    <button onclick="addTask()">Add to List</button>
+   
+   
+    
+    <div class="list">
+        <h2>List of Tasks to Complete    <sup id="numOfTasks">0</sup></h2>
+
+        <ul id="taskList">
+
+
+        </ul>
+
+    </div>
+
+    
+    <script src="scripts/todolist.js"></script>
+
+
+    
+</body>
+</html>

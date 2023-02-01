@@ -1,0 +1,66 @@
+body{
+    background-color: #e9e9f2; 
+    font-family: 'Poller One', cursive;
+
+}
+
+
+    
+h1{
+    color:#223A59;
+    margin: 40px 20px 40px 20px; 
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 70px;
+}
+
+input{
+    width: 300px;
+    height: 40px;
+    margin-left: 740px;
+    font-size:30px;
+   border-radius: 10px;
+    
+}
+
+button{
+    margin-left: 7px;
+    height: 45px;
+    background-color:#636af2;
+    color: #f2f2f2;
+    font-size: 20px;
+    border-radius: 10px; 
+    font-family: 'Poller One', cursive;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 1px;
+    color: #777df2;
+    text-decoration: underline;
+}
+
+#taskList{
+    margin-left: 740px;
+    font-size: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
